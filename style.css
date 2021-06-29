@@ -1,0 +1,22 @@
+body{
+    background-color: #2f3a50;
+}
+#todo {
+    text-align: center;
+}
+
+h1{
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+li {
+    list-style-type:none;
+    color: white;
+    padding-top: 5px;
+}
+
+#btn1 {
+    margin-left: 20px;
+}
